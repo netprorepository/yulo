@@ -1,0 +1,180 @@
+2018-06-04 17:48:55 Notice: Notice (8): Undefined index: Listings in [C:\xampp\htdocs\yulo\tmp\bake\Bake-Model-table-ctp.php, line 21]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 153
+include - ROOT\tmp\bake\Bake-Model-table-ctp.php, line 21
+Bake\View\BakeView::_evaluate() - ROOT\vendor\cakephp\bake\src\View\BakeView.php, line 204
+Cake\View\View::_render() - CORE\src\View\View.php, line 1157
+Bake\View\BakeView::render() - ROOT\vendor\cakephp\bake\src\View\BakeView.php, line 140
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT\vendor\cakephp\bake\src\Shell\Task\BakeTemplateTask.php, line 88
+Bake\Shell\Task\ModelTask::bakeTable() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 950
+Bake\Shell\Task\ModelTask::bake() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 114
+Bake\Shell\Task\ModelTask::main() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 100
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT\vendor\cakephp\bake\src\Shell\BakeShell.php, line 259
+Cake\Collection\Collection::each() - CORE\src\Collection\CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT\vendor\cakephp\bake\src\Shell\BakeShell.php, line 260
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 493
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 141
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2018-06-05 21:29:59 Notice: Notice (8): Undefined index: Categories in [C:\xampp\htdocs\yulo\tmp\bake\Bake-Model-table-ctp.php, line 21]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 153
+include - ROOT\tmp\bake\Bake-Model-table-ctp.php, line 21
+Bake\View\BakeView::_evaluate() - ROOT\vendor\cakephp\bake\src\View\BakeView.php, line 204
+Cake\View\View::_render() - CORE\src\View\View.php, line 1157
+Bake\View\BakeView::render() - ROOT\vendor\cakephp\bake\src\View\BakeView.php, line 140
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT\vendor\cakephp\bake\src\Shell\Task\BakeTemplateTask.php, line 88
+Bake\Shell\Task\ModelTask::bakeTable() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 950
+Bake\Shell\Task\ModelTask::bake() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 114
+Bake\Shell\Task\ModelTask::main() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 100
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT\vendor\cakephp\bake\src\Shell\BakeShell.php, line 259
+Cake\Collection\Collection::each() - CORE\src\Collection\CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT\vendor\cakephp\bake\src\Shell\BakeShell.php, line 260
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 493
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 141
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2018-06-05 21:29:59 Notice: Notice (8): Undefined index: Agents in [C:\xampp\htdocs\yulo\tmp\bake\Bake-Model-table-ctp.php, line 21]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 153
+include - ROOT\tmp\bake\Bake-Model-table-ctp.php, line 21
+Bake\View\BakeView::_evaluate() - ROOT\vendor\cakephp\bake\src\View\BakeView.php, line 204
+Cake\View\View::_render() - CORE\src\View\View.php, line 1157
+Bake\View\BakeView::render() - ROOT\vendor\cakephp\bake\src\View\BakeView.php, line 140
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT\vendor\cakephp\bake\src\Shell\Task\BakeTemplateTask.php, line 88
+Bake\Shell\Task\ModelTask::bakeTable() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 950
+Bake\Shell\Task\ModelTask::bake() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 114
+Bake\Shell\Task\ModelTask::main() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 100
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT\vendor\cakephp\bake\src\Shell\BakeShell.php, line 259
+Cake\Collection\Collection::each() - CORE\src\Collection\CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT\vendor\cakephp\bake\src\Shell\BakeShell.php, line 260
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 493
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 141
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2018-06-05 21:44:26 Notice: Notice (8): Undefined index: Images in [C:\xampp\htdocs\yulo\tmp\bake\Bake-Model-table-ctp.php, line 21]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 153
+include - ROOT\tmp\bake\Bake-Model-table-ctp.php, line 21
+Bake\View\BakeView::_evaluate() - ROOT\vendor\cakephp\bake\src\View\BakeView.php, line 204
+Cake\View\View::_render() - CORE\src\View\View.php, line 1157
+Bake\View\BakeView::render() - ROOT\vendor\cakephp\bake\src\View\BakeView.php, line 140
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT\vendor\cakephp\bake\src\Shell\Task\BakeTemplateTask.php, line 88
+Bake\Shell\Task\ModelTask::bakeTable() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 950
+Bake\Shell\Task\ModelTask::bake() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 114
+Bake\Shell\Task\ModelTask::main() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 100
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT\vendor\cakephp\bake\src\Shell\BakeShell.php, line 259
+Cake\Collection\Collection::each() - CORE\src\Collection\CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT\vendor\cakephp\bake\src\Shell\BakeShell.php, line 260
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 493
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 141
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2018-06-05 21:44:26 Notice: Notice (8): Undefined index: Images in [C:\xampp\htdocs\yulo\tmp\bake\Bake-Model-table-ctp.php, line 21]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 153
+include - ROOT\tmp\bake\Bake-Model-table-ctp.php, line 21
+Bake\View\BakeView::_evaluate() - ROOT\vendor\cakephp\bake\src\View\BakeView.php, line 204
+Cake\View\View::_render() - CORE\src\View\View.php, line 1157
+Bake\View\BakeView::render() - ROOT\vendor\cakephp\bake\src\View\BakeView.php, line 140
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT\vendor\cakephp\bake\src\Shell\Task\BakeTemplateTask.php, line 88
+Bake\Shell\Task\ModelTask::bakeTable() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 950
+Bake\Shell\Task\ModelTask::bake() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 114
+Bake\Shell\Task\ModelTask::main() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 100
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT\vendor\cakephp\bake\src\Shell\BakeShell.php, line 259
+Cake\Collection\Collection::each() - CORE\src\Collection\CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT\vendor\cakephp\bake\src\Shell\BakeShell.php, line 260
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 493
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 141
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2018-06-05 21:56:08 Notice: Notice (8): Undefined index: States in [C:\xampp\htdocs\yulo\tmp\bake\Bake-Model-table-ctp.php, line 21]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 153
+include - ROOT\tmp\bake\Bake-Model-table-ctp.php, line 21
+Bake\View\BakeView::_evaluate() - ROOT\vendor\cakephp\bake\src\View\BakeView.php, line 204
+Cake\View\View::_render() - CORE\src\View\View.php, line 1157
+Bake\View\BakeView::render() - ROOT\vendor\cakephp\bake\src\View\BakeView.php, line 140
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT\vendor\cakephp\bake\src\Shell\Task\BakeTemplateTask.php, line 88
+Bake\Shell\Task\ModelTask::bakeTable() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 950
+Bake\Shell\Task\ModelTask::bake() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 114
+Bake\Shell\Task\ModelTask::main() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 100
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT\vendor\cakephp\bake\src\Shell\BakeShell.php, line 259
+Cake\Collection\Collection::each() - CORE\src\Collection\CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT\vendor\cakephp\bake\src\Shell\BakeShell.php, line 260
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 493
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 141
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2018-06-06 04:17:20 Notice: Notice (8): Undefined index: Cities in [C:\xampp\htdocs\yulo\tmp\bake\Bake-Model-table-ctp.php, line 21]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 153
+include - ROOT\tmp\bake\Bake-Model-table-ctp.php, line 21
+Bake\View\BakeView::_evaluate() - ROOT\vendor\cakephp\bake\src\View\BakeView.php, line 204
+Cake\View\View::_render() - CORE\src\View\View.php, line 1157
+Bake\View\BakeView::render() - ROOT\vendor\cakephp\bake\src\View\BakeView.php, line 140
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT\vendor\cakephp\bake\src\Shell\Task\BakeTemplateTask.php, line 88
+Bake\Shell\Task\ModelTask::bakeTable() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 950
+Bake\Shell\Task\ModelTask::bake() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 114
+Bake\Shell\Task\ModelTask::main() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 100
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT\vendor\cakephp\bake\src\Shell\BakeShell.php, line 259
+Cake\Collection\Collection::each() - CORE\src\Collection\CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT\vendor\cakephp\bake\src\Shell\BakeShell.php, line 260
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 493
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 141
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2018-06-06 21:37:54 Notice: Notice (8): Undefined index: Categorytypes in [C:\xampp\htdocs\yulo\tmp\bake\Bake-Model-table-ctp.php, line 21]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 153
+include - ROOT\tmp\bake\Bake-Model-table-ctp.php, line 21
+Bake\View\BakeView::_evaluate() - ROOT\vendor\cakephp\bake\src\View\BakeView.php, line 204
+Cake\View\View::_render() - CORE\src\View\View.php, line 1157
+Bake\View\BakeView::render() - ROOT\vendor\cakephp\bake\src\View\BakeView.php, line 140
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT\vendor\cakephp\bake\src\Shell\Task\BakeTemplateTask.php, line 88
+Bake\Shell\Task\ModelTask::bakeTable() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 950
+Bake\Shell\Task\ModelTask::bake() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 114
+Bake\Shell\Task\ModelTask::main() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 100
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT\vendor\cakephp\bake\src\Shell\BakeShell.php, line 259
+Cake\Collection\Collection::each() - CORE\src\Collection\CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT\vendor\cakephp\bake\src\Shell\BakeShell.php, line 260
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 493
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 141
+[main] - ROOT\bin\cake.php, line 12
+
+
+
+2018-06-06 21:37:54 Notice: Notice (8): Undefined index: Categorysubtypes in [C:\xampp\htdocs\yulo\tmp\bake\Bake-Model-table-ctp.php, line 21]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 153
+include - ROOT\tmp\bake\Bake-Model-table-ctp.php, line 21
+Bake\View\BakeView::_evaluate() - ROOT\vendor\cakephp\bake\src\View\BakeView.php, line 204
+Cake\View\View::_render() - CORE\src\View\View.php, line 1157
+Bake\View\BakeView::render() - ROOT\vendor\cakephp\bake\src\View\BakeView.php, line 140
+Bake\Shell\Task\BakeTemplateTask::generate() - ROOT\vendor\cakephp\bake\src\Shell\Task\BakeTemplateTask.php, line 88
+Bake\Shell\Task\ModelTask::bakeTable() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 950
+Bake\Shell\Task\ModelTask::bake() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 114
+Bake\Shell\Task\ModelTask::main() - ROOT\vendor\cakephp\bake\src\Shell\Task\ModelTask.php, line 100
+Bake\Shell\BakeShell::Bake\Shell\{closure}() - ROOT\vendor\cakephp\bake\src\Shell\BakeShell.php, line 259
+Cake\Collection\Collection::each() - CORE\src\Collection\CollectionTrait.php, line 51
+Bake\Shell\BakeShell::all() - ROOT\vendor\cakephp\bake\src\Shell\BakeShell.php, line 260
+Cake\Console\Shell::runCommand() - CORE\src\Console\Shell.php, line 493
+Cake\Console\CommandRunner::run() - CORE\src\Console\CommandRunner.php, line 141
+[main] - ROOT\bin\cake.php, line 12
+
+
+
